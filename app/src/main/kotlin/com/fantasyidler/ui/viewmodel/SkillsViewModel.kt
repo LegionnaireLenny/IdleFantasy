@@ -775,7 +775,9 @@ class SkillsViewModel @Inject constructor(
                         skillDisplayName    = "Thieving",
                         estimatedXpGain     = estimatedXpGain,
                         estimatedDurationMs = SkillSimulator.sessionDurationMs(agility, boostRepo.sessionFloorReductionMin(thievingFlags), townRepo.playerSessionDurationMultiplier(thievingFlags)),
-                        xpBoostMultAtQueue  = xpQueueMult,
+                        // Must record every multiplier baked into the estimate (prestige included),
+                        // or the Home screen's live rescale double-counts prestige (issue #1790).
+                        xpBoostMultAtQueue  = xpQueueMult * prestigeMult,
                     )
                 )
                 if (enqueued) queuedSessionStarter.startNextQueued()
@@ -991,6 +993,8 @@ class SkillsViewModel @Inject constructor(
 
     fun snackbarConsumed() = _uiState.update { it.copy(snackbarMessage = null) }
     fun petDialogConsumed() = _uiState.update { it.copy(petFoundName = null) }
+
+    fun bossDurationMinutes(activityKey: String): Int? = gameData.bosses[activityKey]?.durationMinutes
 
     fun prestigeSkill(skillName: String) {
         viewModelScope.launch {

@@ -760,6 +760,7 @@ fun HomeScreen(
                     sessionXpGain  = state.activeSessionXpGain,
                     showEndTime    = state.showSessionEndTime,
                     bossEmoji      = if (session.skillName == "boss") viewModel.bossEmoji(session.activityKey) else null,
+                    bossDurationMinutes = if (session.skillName == "boss") viewModel.bossDurationMinutes(session.activityKey) else null,
                     repeatIndex    = if (session.skillName == "boss") state.activeBossRepeatIndex else state.activeDungeonRepeatIndex,
                     repeatTotal    = if (session.skillName == "boss") state.activeBossRepeatTotal else state.activeDungeonRepeatTotal,
                     assignedItems  = state.activeSessionAssignedItems,

@@ -168,7 +168,9 @@ class MercantileViewModel @Inject constructor(
                         skillDisplayName    = "Mercantile",
                         estimatedXpGain     = estimatedXpGain,
                         estimatedDurationMs = SkillSimulator.sessionDurationMs(agilityLevel, boostRepo.sessionFloorReductionMin(mercFlags), townRepo.playerSessionDurationMultiplier(mercFlags)),
-                        xpBoostMultAtQueue  = xpQueueMult,
+                        // Must record every multiplier baked into the estimate (prestige included),
+                        // or the Home screen's live rescale double-counts prestige (issue #1790).
+                        xpBoostMultAtQueue  = xpQueueMult * prestigeMult,
                         coinRefund          = route.coinCost.toLong(),
                     )
                 )
