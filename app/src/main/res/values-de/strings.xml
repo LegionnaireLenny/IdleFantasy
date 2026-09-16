@@ -2012,7 +2012,7 @@
     <string name="seasonal_event_gloomharvest_2026_banner">Teilgenommen an der Düsterernte 2026</string>
     <string name="seasonal_minigame_lantern_lights_name">Laternenlichter</string>
     <string name="seasonal_minigame_sequence_hint">Merkt euch die Laternen und tippt sie in der richtigen Reihenfolge an. Erreicht Runde %1$d von %2$d für einen Token!</string>
-    <string name="seasonal_minigame_sequence_success">Well remembered! +1 token.</string> <!-- untranslated -->
+    <string name="seasonal_minigame_sequence_success">Gut erinnert! +1 Token.</string>
     <string name="seasonal_minigame_sequence_round">Runde %1$d / %2$d</string>
     <string name="seasonal_minigame_watch">Gut aufpassen!</string>
     <string name="seasonal_minigame_your_turn">Ihr seid dran!</string>
@@ -2164,7 +2164,7 @@
     <string name="pet_ember_moth_desc">So lange zu den Flammen hingezogen, dass sie selber eine wurde. Ihre Flügel schimmern in der verbleibenden Hitze.</string>
     <string name="pet_herb_wisp_name">Kräutergeist</string>
     <string name="pet_herb_wisp_desc">Ein aus den Dämpfen tausender gebrauter Tränke geborener Geist. Seine Anwesenheit schärft deinen Verstand.</string>
-    <string name="pet_rune_sprite_name">Rune Sprite</string> <!-- untranslated -->
+    <string name="pet_rune_sprite_name">Runenelfe</string>
     <string name="pet_rune_sprite_desc">Ein kristallieisertes Fragment magischer Energie, das dem Runenherstellungsaltar entfliehen konnte.</string>
     <string name="pet_gem_golem_name">Edelsteingolem</string>
     <string name="pet_gem_golem_desc">Eine kleine, aus Edelsteinscherben und Polierstaub geformte Kreatur. Erhält die Schärfe deiner Werkzeuge.</string>
@@ -2174,7 +2174,7 @@
     <string name="pet_forge_imp_desc">Ein boshafter, in der Schmiede lebender Kobold. Seine hitzegehärtete Haut ist unempfindlich gegen Verbrennungen.</string>
     <string name="pet_coin_drake_name">Münzdrache</string>
     <string name="pet_coin_drake_desc">Ein Drachenküken, das mit einer Diät aus Goldmünzen aufgezogen wurde. Es hat ein unschlagbares Gespür für Profit.</string>
-    <string name="pet_timber_sprite_name">Timber Sprite</string> <!-- untranslated -->
+    <string name="pet_timber_sprite_name">Holzelfe</string>
     <string name="pet_timber_sprite_desc">Ein Holzgeist, der aus Sägemehl und Holz erwacht ist. Er weiß genau, wo jeder Nagel hingehört.</string>
     <string name="pet_juggling_imp_name">Jonglierender Kobold</string>
     <string name="pet_juggling_imp_desc" formatted="false">A verspielter Kobold, der deine Sorgen wegjongliert. Er erhöht jedes Fähigkeiten-EP um 3%.</string>
@@ -2273,15 +2273,15 @@
     <string name="prestige_respec_confirm_message">All purchased %1$s upgrades will be refunded for their full point cost. You can reset this skill\'s points again in 24 hours.</string> <!-- untranslated -->
     <!-- Translator note: %1$s = skill name -->
     <string name="prestige_respec_done">%1$s prestige points refunded.</string> <!-- untranslated -->
-    <string name="prestige_respec_on_cooldown">Points were reset recently. Try again later.</string> <!-- untranslated -->
+    <string name="prestige_respec_on_cooldown">Deine Punkte wurden kürzlich zurückgesetzt. Versuche es später noch einmal.</string>
     <!-- Translator note: %1$d = node cost in points -->
     <string name="prestige_node_cost">Kosten: %1$d Punkte</string>
     <string name="prestige_node_owned">Gekauft</string>
-    <string name="prestige_path_auto_label">Earned by prestiging</string> <!-- untranslated -->
-    <string name="prestige_node_auto_earned">Earned at prestige %1$d.</string> <!-- untranslated -->
-    <string name="prestige_node_auto_pending">Unlocks automatically at prestige %1$d.</string> <!-- untranslated -->
-    <string name="prestige_button_xp_only">Prestige now for the next XP tier</string> <!-- untranslated -->
-    <string name="prestige_confirm_message_xp_only">Your %1$s level will reset to 1 and you\'ll unlock the next automatic XP tier. Equipment that no longer meets its requirements will be swapped out, and unclaimed %1$s daily quest progress resets. You\'ll also gain 2x %1$s XP for 48 hours to speed the climb back up.</string> <!-- untranslated -->
+    <string name="prestige_path_auto_label">Verdient durch Erhöhung des Ansehens</string>
+    <string name="prestige_node_auto_earned">Verdient durch Ansehen %1$d.</string>
+    <string name="prestige_node_auto_pending">Automatisch frei bei Ansehen %1$d.</string>
+    <string name="prestige_button_xp_only">Erhöhe dein Ansehen für den nächsten XP Rang.</string>
+    <string name="prestige_confirm_message_xp_only">Dein %1$s Level wird auf 1 gesetzt und der nächste XP Rang wird automatisch geöffnet. Ausrüstung, die nicht mehr passt wird ausgetauscht und  nicht geltend gemachte Fortschritte der %1$s Tagesquest werden zurückgesetzt. Du bekommst auch 2x %1$s XP für 48 Stunden um schneller wieder aufzusteigen.</string>
     <!-- Translator note: %1$s = list of race names -->
     <string name="prestige_node_race_only">Nur %1$s</string>
     <!-- Translator note: %1$s = list of race names -->
