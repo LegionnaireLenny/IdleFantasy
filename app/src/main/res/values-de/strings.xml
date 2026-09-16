@@ -641,8 +641,8 @@
     <string name="profile_food_threshold">Beginnt zu essen bei</string>
     <string name="profile_food_order">Reihenfolge der Nahrung</string>
     <string name="food_order_descending">Zuerst höchster Heilwert</string>
-    <string name="food_order_ascending">Lowest Heal Value First</string> <!-- untranslated -->
-    <string name="food_order_least_quantity">Least Quantity First</string> <!-- untranslated -->
+    <string name="food_order_ascending">Zuerst niedrigster Heilwert</string>
+    <string name="food_order_least_quantity">Zuerst niedrigste Menge</string>
     <string name="profile_combat_style">Kampfstil</string>
     <!-- Translator note: %1$d = quantity, %2$d = heal value -->
     <string name="profile_food_desc">×%1$d  •  heilt %2$d LP</string>
@@ -718,7 +718,7 @@
     <string name="shop_keep_one_toggle">Eins von jedem Gegenstand behalten</string>
     <string name="shop_search_hint">Gegenstand suchen</string>
     <string name="shop_filter_all">Alles</string>
-    <string name="shop_order_default">Default</string> <!-- untranslated -->
+    <string name="shop_order_default">Default</string>
     <string name="shop_order_highest_amount">Anzahl</string>
     <string name="shop_order_highest_price">Preis</string>
     <string name="shop_sell_blocked_equipped">%1$s ist ausgerüstet. Vor dem Verkauf muss es abgelegt werden.</string>
@@ -1185,7 +1185,7 @@
     <string name="house_error_max_rooms">Dein Haus hat die maximale Anzahl an Zimmern erreicht.</string>
     <string name="house_error_max_size">Dieser Raum kann nicht größer werden.</string>
     <string name="house_stored_count">Gelagert: %1$d</string>
-    <string name="house_level_short">Lv %1$d</string> <!-- untranslated -->
+    <string name="house_level_short">Lv %1$d</string>
     <string name="house_store_hint">Gelagerte Möbel bleiben unbeschädigt und können später wieder aufgestellt werden.</string>
     <string name="house_store_item">Einlagern</string>
     <string name="house_room_n">Raum %1$d</string>
@@ -1698,7 +1698,7 @@
     <string name="armory_how_to_obtain">Wie zu erhalten</string>
     <string name="armory_no_stats">Keine Statusboni.</string>
     <string name="armory_filter_all">Alle</string>
-    <string name="armory_filter_missing">Missing</string> <!-- untranslated -->
+    <string name="armory_filter_missing">Fehlt noch</string>
     <string name="armory_filter_weapons">Waffen</string>
     <string name="armory_filter_armor">Rüstung</string>
     <string name="armory_filter_accessories">Schmuck</string>
