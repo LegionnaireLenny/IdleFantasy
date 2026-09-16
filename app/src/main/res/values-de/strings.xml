@@ -1981,9 +1981,9 @@
     <string name="seasonal_minigame_bonfire_rhythm_name">Lagerfeuer-Rhythmus</string>
     <string name="seasonal_reward_sunspire_solstice_2026_100_desc">Banner der Sonnenwende-Sommerturm 2026</string>
     <string name="seasonal_bounty_sunspire_firewood_name">Bringt Feuerholz für das Lagerfeuer</string>
-    <string name="seasonal_bounty_sunspire_firewood_hint">Hackt Eichen-Scheite — Holzfällerei</string>
+    <string name="seasonal_bounty_sunspire_firewood_hint">Hackt Eichenstämme — Holzfällerei</string>
     <string name="seasonal_bounty_sunspire_kindling_name">Sammelt Anzündmaterial für das Lagerfeuer</string>
-    <string name="seasonal_bounty_sunspire_kindling_hint">Hackt Weiden-Scheite — Holzfällerei</string>
+    <string name="seasonal_bounty_sunspire_kindling_hint">Hackt Weidenstämme — Holzfällerei</string>
     <string name="seasonal_bounty_sunspire_sunore_name">Grabt nach Gold um den Sonnenturm zu vergolden	</string>
     <string name="seasonal_bounty_sunspire_sunore_hint">Grabt nach Gold — Bergbau</string>
     <string name="seasonal_bounty_sunspire_draughts_name">Braut Stärke-Zaubertrank</string>
@@ -2033,7 +2033,7 @@
     <string name="seasonal_bounty_gloom_corn_name">Holt die Maisernte ein</string>
     <string name="seasonal_bounty_gloom_corn_hint">Baut Mais an (Landwirtschaft)</string>
     <string name="seasonal_bounty_gloom_maples_name">Hackt Ahornholz für die Feuer</string>
-    <string name="seasonal_bounty_gloom_maples_hint">Hackt Ahorn-Scheite (Holzfällerei)</string>
+    <string name="seasonal_bounty_gloom_maples_hint">Hackt Ahornstämme (Holzfällerei)</string>
     <string name="seasonal_bounty_gloom_swordfish_name">Fangt Schwertfische für das Festmahl</string>
     <string name="seasonal_bounty_gloom_swordfish_hint">Fangt rohe Schwertfische (Fischen)</string>
     <string name="seasonal_bounty_gloom_mithril_name">Grabt Mithril, um die Tore zu schützen</string>
