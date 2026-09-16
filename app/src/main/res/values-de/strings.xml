@@ -203,7 +203,7 @@
     <!-- Translator note: %1$s = formatted XP amount, %2$d = target level number -->
     <string name="format_xp_to_next">%1$s EP bis Level %2$d</string>
     <!-- Translator note: %1$s = formatted XP amount remaining to reach the level cap (99) -->
-    <string name="xp_to_99">%1$s XP to 99</string> <!-- untranslated -->
+    <string name="xp_to_99">%1$s XP bis 99</string>
     <!-- Translator note: %1$s = time string (e.g. "42m 10s") -->
     <string name="format_time_remaining">%1$s verbleibend</string>
     <!-- Translator note: %1$s = relative time (e.g. "5m ago") -->
@@ -492,7 +492,7 @@
     <string name="settings_backup_no_folder">Kein Verzeichnis ausgewählt</string>
     <string name="settings_backup_choose">Auswählen</string>
     <string name="settings_backup_frequency">Häufigkeit</string>
-    <string name="settings_backup_count">Number of backups</string> <!-- untranslated -->
+    <string name="settings_backup_count">Anzahl der Backups</string>
     <string name="settings_backup_off">Aus</string>
     <string name="settings_backup_hourly">Stündlich</string>
     <string name="settings_backup_daily">Täglich</string>
@@ -639,8 +639,8 @@
     <string name="profile_food_dungeon">Essen (Verlies)</string>
     <string name="profile_no_food">Keine gekochten Lebensmittel im Inventar</string>
     <string name="profile_food_threshold">Beginnt zu essen bei</string>
-    <string name="profile_food_order">Eating order</string> <!-- untranslated -->
-    <string name="food_order_descending">Highest Heal Value First</string> <!-- untranslated -->
+    <string name="profile_food_order">Reihenfolge der Nahrung</string>
+    <string name="food_order_descending">Zuerst höchster Heilwert</string>
     <string name="food_order_ascending">Lowest Heal Value First</string> <!-- untranslated -->
     <string name="food_order_least_quantity">Least Quantity First</string> <!-- untranslated -->
     <string name="profile_combat_style">Kampfstil</string>
