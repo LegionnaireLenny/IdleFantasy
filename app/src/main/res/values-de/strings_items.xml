@@ -954,7 +954,7 @@
     <string name="item_steel_dagger_name">Stahldolch</string>
     <string name="item_steel_full_helmet_name">Stahl-Vollvisierhelm</string>
     <string name="item_steel_kiteshield_name">Stahl-Langspitzschild</string>
-    <string name="item_steel_longsword_name">Stahl Langschwert</string>
+    <string name="item_steel_longsword_name">Stahl-Langschwert</string>
     <string name="item_steel_med_helmet_name">Stahl Helm</string>
     <string name="item_steel_plateskirt_name">Stahl-Plattenrock</string>
     <string name="item_steel_square_shield_name">Quadratischer Stahl-Schild</string>
@@ -977,11 +977,11 @@
     <string name="item_sovereign_crown_desc">Die Krone des Gebieters der Leere selbst, die dunkle Erhabenheit ausstrahlt. Bietet unübertroffenen Schutz.</string>
     <string name="item_amulet_of_the_void_name">Amulett der Leere</string>
     <string name="item_amulet_of_the_void_desc">Ein Anhänger aus reiner Leerenessenz. Verbessert alle Kampfwerte des Trägers.</string>
-    <string name="item_bronze_longsword_desc">Ein bronzenes Langschwert.</string>
-    <string name="item_iron_longsword_desc">Ein eisernes Langschwert.</string>
+    <string name="item_bronze_longsword_desc">Ein Langschwert aus Bronze.</string>
+    <string name="item_iron_longsword_desc">Ein Langschwert aus Eisen</string>
     <string name="item_shadow_dagger_desc">Ein Dolch mit schwarzer Klinge, der in der Schattenhöhle gefunden wurde. Teuflisch scharf und perfekt ausbalanciert für den Nahkampf.</string>
-    <string name="item_steel_dagger_desc">Ein stählerner Dolch.</string>
-    <string name="item_steel_longsword_desc">Ein stählernes Langschwert.</string>
+    <string name="item_steel_dagger_desc">Ein Dolch aus Stahl.</string>
+    <string name="item_steel_longsword_desc">Ein Langschwert aus Stahl.</string>
     <string name="item_mithril_dagger_desc">Ein Dolch aus Mithril.</string>
     <string name="item_mithril_longsword_desc">Ein Lanschwert aus Mithril.</string>
     <string name="item_adamantite_dagger_desc">Ein Dolch aus Adamantit.</string>
