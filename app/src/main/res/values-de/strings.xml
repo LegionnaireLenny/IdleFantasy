@@ -2272,7 +2272,7 @@
     <!-- Translator note: %1$s = skill name -->
     <string name="prestige_respec_confirm_message">Für alle erworbenen %1$s Verbesserungen werden die vollen Punkte zurückerstattet. Die Punkte dieser Fähigkeit können in 24 wieder zurückgesetzt werden.</string>
     <!-- Translator note: %1$s = skill name -->
-    <string name="prestige_respec_done">%1$s prestige points refunded.</string> <!-- untranslated -->
+    <string name="prestige_respec_done">%1$s Prestige Punkte zurückerstattet.</string>
     <string name="prestige_respec_on_cooldown">Deine Punkte wurden kürzlich zurückgesetzt. Versuche es später noch einmal.</string>
     <!-- Translator note: %1$d = node cost in points -->
     <string name="prestige_node_cost">Kosten: %1$d Punkte</string>
@@ -2312,7 +2312,7 @@
     <string name="prestige_effect_crop_rotation_always">Der Fruchtwechselbonus gilt für jede Kultur, ein Fruchtwechsel ist nicht erforderlich.</string>
     <string name="prestige_effect_tool_eff_pct">Werkzeugeffizienz +%1$d%%.</string>
     <string name="prestige_effect_per_level_bonus">+%1$s Werkzeug- oder Kampfbonus pro Stufe dieser Fertigkeit.</string>
-    <string name="prestige_effect_success_chance_pct">Taschendiebstahl Erfolgs Chance +%1$d%%.</string>
+    <string name="prestige_effect_success_chance_pct">Taschendiebstahl Erfolgschance +%1$d%%.</string>
     <string name="prestige_effect_reclaim_pct">+%1$d%% Chance, verbrauchte Pfeile und Runen nach dem Kampf zurückzubekommen.</string>
     <string name="prestige_effect_heal_pct">Nahrung heilt im Kampf um +%1$d%% mehr.</string>
     <string name="prestige_effect_death_keep_pct">Behalte bei einer Niederlage zusätzlich %1$d%% an EP und Beute.</string>
@@ -2425,7 +2425,7 @@
     <string name="item_heirloom_frying_pan_desc">Eine bewährte Pfanne, die in einer Familie von Köchen von Generation zu Generation weitergegeben wurde. Mit jeder Mahlzeit gewinnt sie an Würze.</string>
     <string name="item_heirloom_lockpick_name">Erbstück-Dietrich</string>
     <string name="item_heirloom_lockpick_desc">Ein Dietrich, der schon unzählige Schlösser leise geöffnet hat. Mit jedem Auftrag wird er noch raffinierter.</string>
-    <string name="item_midas_band_name">Midas Band</string> <!-- untranslated -->
+    <string name="item_midas_band_name">Midas Band</string>
     <string name="item_midas_band_desc">A sliver of the Vault Guardian\'s living gold. It drinks in a little of every battle its wearer survives.</string> <!-- untranslated -->
     <string name="item_heirloom_blade_name">Erbstück-Klinge</string>
     <string name="item_heirloom_blade_desc">Eine uralte Klinge, die mit jedem Kampf, den ihre Linie übersteht, ein wenig mehr zum Leben erwacht.</string>
