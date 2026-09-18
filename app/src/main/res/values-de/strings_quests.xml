@@ -564,11 +564,11 @@
     <string name="skilling_dungeon_crumbling_watchtower_note_3">The ledger is a tally of stolen goods and split payments. The rogues operate out of somewhere beneath the hill.</string> <!-- untranslated -->
     <string name="skilling_dungeon_crumbling_watchtower_note_4">A trapdoor in the floor, recently oiled, its hinges silent. Worn boot prints surround it.</string> <!-- untranslated -->
     <string name="skilling_dungeon_crumbling_watchtower_note_5">The trapdoor opens onto a carved stairway going deep into the earth. The Shadow Den waits below.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_note_1">Scratches mark the tunnel walls, too deep and wide for any pickaxe.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_note_2">Old mining equipment, twisted and bent. Whatever was here left in a hurry.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_note_3">A miner\'s torn note: \'We broke through to something below. The foreman sealed the lower shaft. He won\'t say why.\'</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_note_4">Tremors from below. Dust falls from the ceiling in slow waves. Something stirs.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_note_5">The sealed shaft gives way. A vast cavern opens beneath — the Collapsed Mine lies ahead.</string> <!-- untranslated -->
+    <string name="skilling_dungeon_copper_caverns_note_1">Schrammen markieren die Tunnelwände, zu tief und zu breit für jede Hacke.</string>
+    <string name="skilling_dungeon_copper_caverns_note_2">Altes Minenwerkzeug, verdreht und verbogen. Wasimmer hier in aller Eile zurückgelassen wurde.</string>
+    <string name="skilling_dungeon_copper_caverns_note_3">Die zerissene Notiz eines Minenarbeiters: \'Wir sind zu etwas nach unten durchgebrochen. Der Vorarbeiter versiegelte den unteren Schacht. Er wollte nicht sagen warum.\"</string>
+    <string name="skilling_dungeon_copper_caverns_note_4">Erschütterungen von unten. Staub fällt von der Decke in langsamen Wellen. Etwas rührt sich.</string>
+    <string name="skilling_dungeon_copper_caverns_note_5">Der verschlossene Schacht gibt nach. Eine riesige Höhle öffnet sich darunter — die zusammengefallene Mine liegt vor uns.</string>
     <string name="skilling_dungeon_shadow_vault_note_1">A dossier on every major merchant in the city. Someone has been compiling this for years.</string> <!-- untranslated -->
     <string name="skilling_dungeon_shadow_vault_note_2">A vault door, partially ajar. Inside — crates of stolen weapons, armour, and sealed scroll cases.</string> <!-- untranslated -->
     <string name="skilling_dungeon_shadow_vault_note_3">One scroll case is different from the others. It bears the seal of the royal treasury. It is empty.</string> <!-- untranslated -->
