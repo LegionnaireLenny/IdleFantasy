@@ -1392,7 +1392,7 @@
     <!-- Prestige achievements -->
     <string name="achievement_prestige_first_name">Erster Neustart</string>
     <string name="achievement_prestige_first_desc">Erhöht das Prestige einer beliebigen Fähigkeit zum ersten Mal</string>
-    <string name="achievement_prestige_node_first_name">Branching Out</string> <!-- untranslated -->
+    <string name="achievement_prestige_node_first_name">Sich verzweigend</string>
     <string name="achievement_prestige_node_first_desc">Kaufe deine erste Verbesserung in einem Prestige Baum</string>
     <string name="achievement_prestige_path_complete_name">Am Ende des Pfades</string>
     <string name="achievement_prestige_path_complete_desc">Kaufe jede Verbesserung in einem Prestige Pfad</string>
@@ -1800,7 +1800,7 @@
     <string name="bonus_combined_xp">EP gesamt</string>
     <string name="bonus_yield">+%1$d%% Ausbeute</string>
     <string name="bonus_boost">+%1$d%% Verstärkung</string>
-    <string name="bonus_agility_prestige_detail">From prestige: %1$dm sessions at level %2$d become %3$dm</string> <!-- untranslated -->
+    <string name="bonus_agility_prestige_detail">Wegen Prestige: %1$dm Sitzungen mit Level %2$d werden %3$dm</string>
     <string name="bonus_coin_return">+%1$d%% Münzrückgabe</string>
     <string name="bonus_tower">Turm</string>
     <string name="bonus_builder_discount_detail" formatted="false">0.5% günstigere Gebäude-Verbesserungskosten pro Level</string>
@@ -2262,7 +2262,7 @@
     <!-- Translator note: %1$d = current skill level -->
     <string name="prestige_requires_99">Erreiche Level 99 um einen Prestige durchzuführen (aktuell %1$d).</string>
     <string name="prestige_maxed_cap">Maximales Prestige Level erreicht. Jeder Punkt, den man in dieser Fähigkeit erlangen kann ist deiner.</string>
-    <string name="skills_prestige_max">★×%1$d (Max)</string> <!-- untranslated -->
+    <string name="skills_prestige_max">★×%1$d (Max)</string>
     <!-- Translator note: %1$s = skill name, %2$d = points awarded -->
     <string name="prestige_confirm_message_points">Dein %1$s Level wird auf 1 zurückgesetzt und du erhältst %2$d Prestige Punkte, welche du in dem Fähigkeiten-Baum ausgeben kannst. Ausrüstung, für die du nicht mehr die Bedingungen erfüllst, wird ausgetauscht, und nicht eingeforderter %1$s Fortschritt täglicher Herausforderungen wird zurückgesetzt. Zusätzlich bekommst du 2x %1$s EP für 48 Stunden, um deinen Fortschritt zu beschleunigen.</string>
     <string name="prestige_respec">Punkte zurücksetzen</string>
@@ -2270,9 +2270,9 @@
     <string name="prestige_respec_available_in">Du kannst deine Punkte erst in %1$s zurücksetzen</string>
     <string name="prestige_respec_confirm_title">Prestige Punkte zurücksetzen?</string>
     <!-- Translator note: %1$s = skill name -->
-    <string name="prestige_respec_confirm_message">All purchased %1$s upgrades will be refunded for their full point cost. You can reset this skill\'s points again in 24 hours.</string> <!-- untranslated -->
+    <string name="prestige_respec_confirm_message">Alle gekauften %1$s Skill Erhöhungen werden in voller Punktzahl erstattet. Du kannst erst in 24 Stunden wieder zurücksetzen.</string>
     <!-- Translator note: %1$s = skill name -->
-    <string name="prestige_respec_done">%1$s prestige points refunded.</string> <!-- untranslated -->
+    <string name="prestige_respec_done">%1$s Prestige Punkte erstattet.</string>
     <string name="prestige_respec_on_cooldown">Deine Punkte wurden kürzlich zurückgesetzt. Versuche es später noch einmal.</string>
     <!-- Translator note: %1$d = node cost in points -->
     <string name="prestige_node_cost">Kosten: %1$d Punkte</string>
@@ -2286,9 +2286,9 @@
     <string name="prestige_node_race_only">Nur %1$s</string>
     <!-- Translator note: %1$s = list of race names -->
     <string name="prestige_node_race_locked_desc">Nur %1$s Charaktere können diese Verbesserung erlernen.</string>
-    <string name="prestige_node_prereq_locked">Requires the previous tier in this path.</string> <!-- untranslated -->
+    <string name="prestige_node_prereq_locked">Erfordert die vorherige Stufe in diesem Pfad.</string>
     <string name="prestige_node_hidden">Schalte zuerst das vorherige Upgrade frei.</string>
-    <string name="character_race_edit_hint">Race changes are made in the appearance editor.</string> <!-- untranslated -->
+    <string name="character_race_edit_hint">Rassenänderungen können im Appearance Editor gemacht werden.</string>
     <string name="prestige_node_not_enough">Nicht genug Punkte</string>
     <!-- Translator note: %1$s = node name -->
     <string name="prestige_node_purchased">%1$s gekauft!</string>
