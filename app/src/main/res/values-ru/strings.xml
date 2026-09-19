@@ -2263,7 +2263,10 @@
     <string name="carnival_stat_atk">Атк +%1$d</string>
     <string name="carnival_stat_str">Сил +%1$d</string>
     <string name="carnival_stat_def">Защ +%1$d</string>
-    <string name="carnival_stat_yield">Уступка</string>
+    <!-- Translator note: %1$s = "${skill name} ", %2$d = percentage bonus -->
+    <string name="carnival_stat_xp">%1$sXP +%2$d%%</string> <!-- untranslated -->
+    <!-- Translator note: %1$s = "${skill name} ", %2$d = percentage bonus -->
+    <string name="carnival_stat_yield">%1$sYield +%2$d%%</string> <!-- untranslated -->
     <string name="carnival_potion_letter_green">З</string>
     <string name="carnival_potion_letter_blue">С</string>
     <string name="carnival_potion_letter_red">К</string>
