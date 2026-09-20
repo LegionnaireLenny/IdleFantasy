@@ -1489,7 +1489,7 @@
     <string name="catalyst_enhanced_output">Produziert verbesserten Trank</string>
     <string name="catalyst_rune_bonus">%1$d Runen pro Essenz</string>
     <string name="catalyst_none">Kein Katalysator</string>
-    <string name="skills_rune_output">Produces %1$d runes</string> <!-- untranslated -->
+    <string name="skills_rune_output">Produziert %1$d Runen</string>
 
     <!-- Construction skill -->
     <string name="skill_construction_name">Bauen</string>
@@ -2244,9 +2244,9 @@
     <string name="carnival_stat_str">STÄ +%1$d</string>
     <string name="carnival_stat_def">VER +%1$d</string>
     <!-- Translator note: %1$s = "${skill name} ", %2$d = percentage bonus -->
-    <string name="carnival_stat_xp">%1$sXP +%2$d%%</string> <!-- untranslated -->
+    <string name="carnival_stat_xp">%1$sEP +%2$d%%</string>
     <!-- Translator note: %1$s = "${skill name} ", %2$d = percentage bonus -->
-    <string name="carnival_stat_yield">%1$sYield +%2$d%%</string> <!-- untranslated -->
+    <string name="carnival_stat_yield">%1$sErtrag +%2$d%%</string>
     <string name="carnival_potion_letter_green">G</string>
     <string name="carnival_potion_letter_blue">B</string>
     <string name="carnival_potion_letter_red">R</string>
@@ -2327,14 +2327,14 @@
     <string name="prestige_effect_blessing_cost_pct">Kirchliche Segen kosten %1$d%% weniger Knochen.</string>
     <string name="prestige_effect_potion_bonus_flat">Combat potions grant +%1$d more to their stats.</string> <!-- untranslated -->
     <string name="prestige_effect_input_save_pct">%1$d%% der Materialien werden erstattet.</string>
-    <string name="prestige_effect_builder_discount_pct">Town building upgrades cost %1$d%% less.</string> <!-- untranslated -->
-    <string name="prestige_effect_sell_price_pct">Shop sell prices +%1$d%%.</string> <!-- untranslated -->
+    <string name="prestige_effect_builder_discount_pct">Gebäude-Verbesserungen kosten %1$d%% weniger.</string>
+    <string name="prestige_effect_sell_price_pct">Verkaufspreise beim Krämer +%1$d%%.</string>
     <string name="prestige_effect_slayer_points_pct">Trophäenjagd-Punkte +%1$d%%.</string>
     <string name="prestige_effect_double_hit_pct">%1$d%% chance to strike a second melee hit.</string> <!-- untranslated -->
     <string name="prestige_effect_second_chance">Missed melee attacks are rerolled once.</string> <!-- untranslated -->
     <string name="prestige_effect_foretell_slots">+%1$d Plätze in Vorhersage-Liste vom Trophäenjäger.</string>
     <string name="prestige_effect_slayer_multi_task">Dungeon kills also count toward matching foretold tasks.</string> <!-- untranslated -->
-    <string name="prestige_effect_unlock_recipe">Unlocks the %1$s fletching recipe.</string> <!-- untranslated -->
+    <string name="prestige_effect_unlock_recipe">Schaltet das Rezept für %1$s-Bogenbau frei.</string>
 
     <!-- New distinctive base path names (variety pass) -->
     <string name="prestige_path_fishing_rod">Stabile Angelrute</string>
@@ -2409,7 +2409,7 @@
     <string name="ironman_race_permanent_note">Ironman characters cannot change their race later. Choose carefully!</string> <!-- untranslated -->
     <!-- Translator note: %1$s = comma-separated list of skill names -->
     <string name="race_proficiency_label">Rassen-Fähigkeitsbäume: %1$s</string>
-    <string name="race_proficiency_human">Racial bonus: an exclusive XP mastery tier in every skill</string> <!-- untranslated -->
+    <string name="race_proficiency_human">Rassenbonus: eine exklusive EP-Meisterschaftsstufe in jeder Fertigkeit</string>
     <string name="race_change_confirm_message">Your race grants race-locked prestige upgrades. Changing race refunds any points spent in other races\' branches, and you can only change race once every 24 hours.</string> <!-- untranslated -->
     <!-- Heirloom items (raid boss rare drops that level up with use) -->
     <string name="item_heirloom_pickaxe_name">Erbstück-Spitzhacke</string>
