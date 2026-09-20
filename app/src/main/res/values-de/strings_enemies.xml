@@ -34,7 +34,7 @@
     <string name="enemy_sea_spirit_name">Meeresgeist</string>
     <string name="enemy_cursed_fisherman_name">Verfluchter Fischer</string>
     <string name="enemy_abyssal_leech_name">Abyssal Leech</string> <!-- untranslated -->
-    <string name="enemy_deep_horror_name">Deep Horror</string> <!-- untranslated -->
+    <string name="enemy_deep_horror_name">Unergründlicher Schrecken</string>
     <string name="enemy_void_guardian_name">Leerenwächter</string>
     <string name="enemy_corrupted_druid_name">Verdorbener Druide</string>
     <string name="enemy_vine_beast_name">Rankenbestie</string>
@@ -51,7 +51,7 @@
     <string name="enemy_ember_hound_name">Gluthund</string>
     <string name="enemy_cinder_colossus_name">Aschekoloss</string>
     <string name="enemy_will_o_wisp_name">Will-o\'-Wisp</string> <!-- untranslated -->
-    <string name="enemy_grave_ghoul_name">Grave Ghoul</string> <!-- untranslated -->
+    <string name="enemy_grave_ghoul_name">Grabghul</string>
     <string name="enemy_husk_horror_name">Husk Horror</string> <!-- untranslated -->
     <string name="enemy_barrow_wight_name">Barrow Wight</string> <!-- untranslated -->
     <string name="enemy_shade_stalker_name">Schattenjäger</string>
