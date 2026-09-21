@@ -1,0 +1,2 @@
+• Isle dungeon clears now correctly count toward story quest counters. Fought Beach & Cliffs but the "First Steps" quest stayed 0/8? Fixed — every successful isle dungeon run now increments the counter the way mainland dungeons already did.
+• Sea Serpent is now available on the Combat tab the moment the Dock is built, instead of also requiring Grand Monument tier 5 and total level 1500. The Dock (Construction 90) is a heavy enough gate on its own.
