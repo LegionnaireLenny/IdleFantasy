@@ -8,7 +8,7 @@
     <string name="nav_combat">Combate</string>
     <string name="nav_home">Inicio</string>
     <string name="nav_crafting">Crafting</string> <!-- untranslated -->
-    <string name="nav_quests">Retos</string>
+    <string name="nav_quests">Misiones</string>
     <string name="nav_profile">Perfil</string>
 
     <!-- ===== Common buttons ===== -->
@@ -976,7 +976,7 @@
     <string name="guild_hall_intro">Los gremios te recompensan por actividades que ya haces. Completa misiones y solicitudes diarias para ganar materiales de otras habilidades, monedas y XP, para que los especialistas puedan acceder a recursos de habilidades que no entrenan.</string>
     <string name="guild_level_label">Nivel %1$d</string>
     <string name="guild_level_max">Level 10 (Max)</string> <!-- untranslated -->
-    <string name="guild_tab_quests">Retos</string>
+    <string name="guild_tab_quests">Misiones</string>
     <string name="guild_tab_dailies">Solicitudes diarias</string>
     <string name="guild_daily_resets_in">Se reinicia todos los días a las %1$s</string>
     <string name="guild_locked_hint">Requiere nivel de gremio %1$d</string>

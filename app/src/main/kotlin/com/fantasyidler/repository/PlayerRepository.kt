@@ -495,7 +495,7 @@ class PlayerRepository @Inject constructor(
      */
     suspend fun openAncientTreasures(count: Int): Triple<Int, Long, Map<String, Int>>? = playerMutex.withLock {
         val player = getOrCreatePlayer()
-        val inventory: Map<String, Int> = json.decodeFromString(player.inventory)
+        val inventory: MutableMap<String, Int> = json.decodeFromString(player.inventory)
         val opened = minOf(count, inventory[ANCIENT_TREASURE_KEY] ?: 0)
         if (opened <= 0) return@withLock null
         val gemKeys = gameData.gems.keys.toList()
@@ -508,9 +508,20 @@ class PlayerRepository @Inject constructor(
                 gems[gem] = (gems[gem] ?: 0) + 1
             }
         }
-        consumeItemsUnlocked(mapOf(ANCIENT_TREASURE_KEY to opened))
-        addCoinsUnlocked(coins)
-        if (gems.isNotEmpty()) addItemsUnlocked(gems)
+        // One player read + one JSON encode + one DB write — the previous split into
+        // consumeItemsUnlocked / addCoinsUnlocked / addItemsUnlocked forced 3 sequential
+        // Room writes and a full PlayerFlags re-encode per open, which stacked to seconds
+        // when opening 1k+ treasures at once on an endgame save (#1852).
+        val newTreasureQty = (inventory[ANCIENT_TREASURE_KEY] ?: 0) - opened
+        if (newTreasureQty <= 0) inventory.remove(ANCIENT_TREASURE_KEY) else inventory[ANCIENT_TREASURE_KEY] = newTreasureQty
+        for ((gem, qty) in gems) {
+            inventory[gem] = ((inventory[gem] ?: 0).toLong() + qty).coerceAtMost(Int.MAX_VALUE.toLong()).toInt()
+        }
+        val newCoins = (player.coins + coins).coerceAtMost(Long.MAX_VALUE)
+        playerDao.upsert(player.copy(
+            inventory = json.encode<Map<String, Int>>(inventory),
+            coins     = newCoins,
+        ))
         Triple(opened, coins, gems)
     }
 
