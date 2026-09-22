@@ -786,8 +786,8 @@
     <string name="item_adamantite_med_helmet_name">Adamantite Med Helmet</string> <!-- untranslated -->
     <string name="item_adamantite_plateskirt_name">Adamantite Plateskirt</string> <!-- untranslated -->
     <string name="item_adamantite_square_shield_name">Adamantite Square Shield</string> <!-- untranslated -->
-    <string name="item_agility_cape_name">Agility Cape</string> <!-- untranslated -->
-    <string name="item_agility_guild_cape_name">Agility Guild Cape</string> <!-- untranslated -->
+    <string name="item_agility_cape_name">Capa de Agilidad</string>
+    <string name="item_agility_guild_cape_name">Capa del Gremio de Agilidad</string>
     <string name="item_amulet_of_fury_name">Amulet Of Fury</string> <!-- untranslated -->
     <string name="item_amulet_of_fury_desc">A powerful amulet granting bonuses to all combat styles. Requires Mercantile level 80 to purchase.</string> <!-- untranslated -->
     <string name="item_amulet_of_strength_name">Amulet Of Strength</string> <!-- untranslated -->
@@ -1141,8 +1141,8 @@
     <string name="item_mercantile_cape_name">Mercantile Cape</string> <!-- untranslated -->
     <string name="item_mercantile_cape_desc" formatted="false">Awarded for reaching level 99 Mercantile. Grants 10% better shop prices and trade returns.</string> <!-- untranslated -->
     <string name="item_mercantile_guild_cape_desc" formatted="false">Awarded for reaching Merchants Guild level 10. Grants 5% better shop prices and trade returns.</string> <!-- untranslated -->
-    <string name="item_agility_cape_desc" formatted="false">Awarded for reaching level 99 Agility. Grants 10% more XP per session.</string> <!-- untranslated -->
-    <string name="item_agility_guild_cape_desc" formatted="false">Awarded for reaching Agility Guild level 10. Grants 5% more XP per session.</string> <!-- untranslated -->
+    <string name="item_agility_cape_desc" formatted="false">Se otorga al alcanzar el nivel 99 de Agilidad. Otorga un 10% más de XP por sesión.</string>
+    <string name="item_agility_guild_cape_desc" formatted="false">Se otorga al alcanzar el nivel 10 del Gremio de Agilidad. Otorga un 5% más de XP por sesión.</string>
     <string name="item_slayer_cape_name">Slayer Cape</string> <!-- untranslated -->
     <string name="item_slayer_cape_desc" formatted="false">Awarded for reaching level 99 Slayer. Grants 10% more Slayer points.</string> <!-- untranslated -->
     <string name="item_attack_cape_desc" formatted="false">Awarded for reaching level 99 Attack. Grants 10% bonus Attack XP.</string> <!-- untranslated -->

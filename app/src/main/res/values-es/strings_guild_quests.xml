@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Guild quest names — translate per locale, falls back to JSON name if absent -->
-    <string name="quest_agility_guild_1_name">First Laps</string> <!-- untranslated -->
-    <string name="quest_agility_guild_10_name">Master of Movement</string> <!-- untranslated -->
-    <string name="quest_agility_guild_2_name">Dedicated Runner</string> <!-- untranslated -->
-    <string name="quest_agility_guild_3_name">Endurance Run</string> <!-- untranslated -->
-    <string name="quest_agility_guild_4_name">Obstacle Expert</string> <!-- untranslated -->
-    <string name="quest_agility_guild_5_name">Swift Feet</string> <!-- untranslated -->
-    <string name="quest_agility_guild_6_name">Course Master</string> <!-- untranslated -->
-    <string name="quest_agility_guild_7_name">Elite Runner</string> <!-- untranslated -->
-    <string name="quest_agility_guild_8_name">Relentless</string> <!-- untranslated -->
-    <string name="quest_agility_guild_9_name">Indomitable</string> <!-- untranslated -->
+    <string name="quest_agility_guild_1_name">Primeras Vueltas</string>
+    <string name="quest_agility_guild_10_name">Maestro del Movimiento</string>
+    <string name="quest_agility_guild_2_name">Corredor Dedicado</string>
+    <string name="quest_agility_guild_3_name">Carrera de Resistencia</string>
+    <string name="quest_agility_guild_4_name">Experto en Obstáculos</string>
+    <string name="quest_agility_guild_5_name">Pies Ligeros</string>
+    <string name="quest_agility_guild_6_name">Maestro de Circuitos</string>
+    <string name="quest_agility_guild_7_name">Corredor de Élite</string>
+    <string name="quest_agility_guild_8_name">Incansable</string>
+    <string name="quest_agility_guild_9_name">Indomable</string>
     <string name="quest_archers_guild_1_name">First Arrow</string> <!-- untranslated -->
     <string name="quest_archers_guild_10_name">Master Archer</string> <!-- untranslated -->
     <string name="quest_archers_guild_2_name">Keen Eye</string> <!-- untranslated -->
@@ -203,27 +203,27 @@
     <string name="quest_woodcutting_guild_9_name">Redwood Legacy</string> <!-- untranslated -->
 
     <!-- Guild daily quest names -->
-    <string name="quest_agility_daily_1a_name">Morning Run</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1b_name">Sprint Training</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1c_name">Obstacle Circuit</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1d_name">Circuit Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1e_name">Morning Run Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1f_name">Sprint Training Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_1g_name">Obstacle Circuit Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4a_name">Endurance Circuit</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4b_name">Elite Sprint</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4c_name">Advanced Run</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4d_name">Endurance Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4e_name">Endurance Circuit Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4f_name">Elite Sprint Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_4g_name">Advanced Run Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7a_name">Master Circuit</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7b_name">Champion Run</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7c_name">Legendary Sprint</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7d_name">Grandmaster Circuit</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7e_name">Master Circuit Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7f_name">Champion Run Reserve</string> <!-- untranslated -->
-    <string name="quest_agility_daily_7g_name">Legendary Sprint Reserve</string> <!-- untranslated -->
+    <string name="quest_agility_daily_1a_name">Carrera Matutina</string>
+    <string name="quest_agility_daily_1b_name">Entrenamiento de Velocidad</string>
+    <string name="quest_agility_daily_1c_name">Circuito de Obstáculos</string>
+    <string name="quest_agility_daily_1d_name">Circuito (Reserva)</string>
+    <string name="quest_agility_daily_1e_name">Carrera Matutina (Reserva)</string>
+    <string name="quest_agility_daily_1f_name">Entrenamiento de Velocidad (Reserva)</string>
+    <string name="quest_agility_daily_1g_name">Circuito de Obstáculos (Reserva)</string>
+    <string name="quest_agility_daily_4a_name">Circuito de Resistencia</string>
+    <string name="quest_agility_daily_4b_name">Velocidad de Élite</string>
+    <string name="quest_agility_daily_4c_name">Carrera Avanzada</string>
+    <string name="quest_agility_daily_4d_name">Resistencia (Reserva)</string>
+    <string name="quest_agility_daily_4e_name">Circuito de Resistencia (Reserva)</string>
+    <string name="quest_agility_daily_4f_name">Velocidad de Élite (Reserva)</string>
+    <string name="quest_agility_daily_4g_name">Carrera Avanzada (Reserva)</string>
+    <string name="quest_agility_daily_7a_name">Circuito Maestro</string>
+    <string name="quest_agility_daily_7b_name">Carrera de Campeones</string>
+    <string name="quest_agility_daily_7c_name">Velocidad Legendaria</string>
+    <string name="quest_agility_daily_7d_name">Circuito de Gran Maestro</string>
+    <string name="quest_agility_daily_7e_name">Circuito Maestro (Reserva)</string>
+    <string name="quest_agility_daily_7f_name">Carrera de Campeones (Reserva)</string>
+    <string name="quest_agility_daily_7g_name">Velocidad Legendaria (Reserva)</string>
     <string name="quest_archers_daily_1a_name">Target Practice</string> <!-- untranslated -->
     <string name="quest_archers_daily_1b_name">Range Duty</string> <!-- untranslated -->
     <string name="quest_archers_daily_1c_name">Daily Hunt</string> <!-- untranslated -->
