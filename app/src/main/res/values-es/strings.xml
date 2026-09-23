@@ -1631,10 +1631,10 @@
     <string name="elder_armor_sigil_embed">Embed</string> <!-- untranslated -->
     <string name="elder_armor_sigil_remove">Remove</string> <!-- untranslated -->
     <string name="elder_armor_pick_stone">Pick a sigil stone</string> <!-- untranslated -->
-    <string name="item_mythrite_ore_name">Mythrite Ore</string> <!-- untranslated -->
-    <string name="item_abyssal_ore_name">Abyssal Ore</string> <!-- untranslated -->
-    <string name="item_voidsteel_ore_name">Voidsteel Ore</string> <!-- untranslated -->
-    <string name="item_starforged_ore_name">Starforged Ore</string> <!-- untranslated -->
+    <string name="item_mythrite_ore_name">Mineral de mythrite</string>
+    <string name="item_abyssal_ore_name">Mineral Abisal</string>
+    <string name="item_voidsteel_ore_name">Mineral de voidsteel</string>
+    <string name="item_starforged_ore_name">Mineral Estelar</string>
     <string name="item_mythrite_bar_name">Mythrite Bar</string> <!-- untranslated -->
     <string name="item_abyssal_bar_name">Abyssal Bar</string> <!-- untranslated -->
     <string name="item_voidsteel_bar_name">Voidsteel Bar</string> <!-- untranslated -->
@@ -1704,10 +1704,10 @@
     <string name="item_elder_familiar_name">Elder Familiar</string> <!-- untranslated -->
 
     <!-- Elder Isle: ore descriptions -->
-    <string name="item_mythrite_ore_desc">Silvery isle ore. Smelts into Mythrite Bars, the base metal of the Coastal armor tier.</string> <!-- untranslated -->
-    <string name="item_abyssal_ore_desc">Dark isle ore laced with pressure-cracked veins. Smelts into Abyssal Bars for Grove-tier gear.</string> <!-- untranslated -->
-    <string name="item_voidsteel_ore_desc">Isle ore that hums faintly under pressure. Smelts into Voidsteel Bars for Volcanic-tier gear.</string> <!-- untranslated -->
-    <string name="item_starforged_ore_desc">The isle\'s rarest ore, said to be shed from the seal itself. Smelts into Starforged Bars for the Elder set.</string> <!-- untranslated -->
+    <string name="item_mythrite_ore_desc">Mineral plateado de la isla. Se funde en barras de mythrite, el metal base de la gama Costera de armaduras.</string>
+    <string name="item_abyssal_ore_desc">Mineral oscuro de la isla con vetas agrietadas por la presión. Se funde en barras abisales para el equipo de la gama Bosque.</string>
+    <string name="item_voidsteel_ore_desc">Mineral de la isla que zumba débilmente bajo presión. Se funde en barras de voidsteel para el equipo de la gama Volcánica.</string>
+    <string name="item_starforged_ore_desc">El mineral más raro de la isla, se dice que se desprende del propio sello. Se funde en barras estelares para el conjunto del Anciano.</string>
     <string name="town_chronos_spire_no_bonus">Upgrade to reduce player session durations</string> <!-- untranslated -->
     <string name="town_chronos_spire_active_bonus">%1$d%% reduction to player session durations</string> <!-- untranslated -->
 
@@ -2531,7 +2531,7 @@
     <string name="prestige_path_rotation">Crop Rotation</string> <!-- untranslated -->
 
     <!-- Prestige path names (skill flavored) -->
-    <string name="prestige_path_mining_yield">Purer Ore</string> <!-- untranslated -->
+    <string name="prestige_path_mining_yield">Mineral Más Puro</string>
     <string name="prestige_path_fishing_yield">More Fish</string> <!-- untranslated -->
     <string name="prestige_path_woodcutting_yield">Sharper Axe</string> <!-- untranslated -->
     <string name="prestige_path_thieving_yield">Faster Picking</string> <!-- untranslated -->
@@ -2578,8 +2578,8 @@
     <string name="race_proficiency_human">Racial bonus: an exclusive XP mastery tier in every skill</string> <!-- untranslated -->
     <string name="race_change_confirm_message">Your race grants race-locked prestige upgrades. Changing race refunds any points spent in other races\' branches, and you can only change race once every 24 hours.</string> <!-- untranslated -->
     <!-- Heirloom items (raid boss rare drops that level up with use) -->
-    <string name="item_heirloom_pickaxe_name">Heirloom Pickaxe</string> <!-- untranslated -->
-    <string name="item_heirloom_pickaxe_desc">A family pickaxe passed down through generations. It remembers every ore its bearers ever broke.</string> <!-- untranslated -->
+    <string name="item_heirloom_pickaxe_name">Pico Heredado</string>
+    <string name="item_heirloom_pickaxe_desc">Un pico familiar transmitido de generación en generación. Recuerda cada mineral que alguna vez rompieron sus portadores.</string>
     <string name="item_heirloom_axe_name">Heirloom Axe</string> <!-- untranslated -->
     <string name="item_heirloom_axe_desc">A woodsman\'s axe worn smooth by a hundred hands. Every felled tree sharpens it a little more.</string> <!-- untranslated -->
     <string name="item_heirloom_fishing_rod_name">Heirloom Fishing Rod</string> <!-- untranslated -->
