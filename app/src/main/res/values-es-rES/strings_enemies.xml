@@ -118,28 +118,28 @@
     <string name="dungeon_blightwood_desc">A rotting forest deep past the Hollowfen, where the Gloomharvest\'s strongest horrors gather. Part of the Gloomharvest event.</string> <!-- untranslated -->
 
     <!-- ===== Raid bosses ===== -->
-    <string name="boss_king_black_dragon_name">King Black Dragon</string> <!-- untranslated -->
+    <string name="boss_king_black_dragon_name">King Black Dragon</string>
     <string name="boss_king_black_dragon_desc">El legendario dragón de tres cabezas, temido en todo el reino.</string>
-    <string name="boss_demon_lord_name">Demon Lord</string> <!-- untranslated -->
+    <string name="boss_demon_lord_name">Señor de los Demonios</string>
     <string name="boss_demon_lord_desc">Un antiguo demonio del abismo, maestro de la magia oscura.</string>
-    <string name="boss_kraken_name">Kraken</string> <!-- untranslated -->
+    <string name="boss_kraken_name">Kraken</string>
     <string name="boss_kraken_desc">El terror de las profundidades marinas, un colosal monstruo marino.</string>
-    <string name="boss_balrog_name">Gothic Ember</string> <!-- untranslated -->
+    <string name="boss_balrog_name">Brasa Gótica</string>
     <string name="boss_balrog_desc">Un antiguo demonio de llamas y sombras, despertado de su letargo en las profundidades de la tierra.</string>
-    <string name="boss_void_sovereign_name">The Void Sovereign</string> <!-- untranslated -->
+    <string name="boss_void_sovereign_name">El Soberano del Vacío</string>
     <string name="boss_void_sovereign_desc">La entidad primordial detrás de las grietas del vacío. Antigua más allá de todo cálculo, mira a los retadores mortales con desprecio.</string>
-    <string name="boss_sol_invictus_name">Sol Invictus, the Sundered Flame</string> <!-- untranslated -->
-    <string name="boss_sol_invictus_desc">A shard of the sun itself, torn loose from the Sunspire ruin. Only the boldest warriors dare approach.</string> <!-- untranslated -->
-    <string name="boss_the_hollow_king_name">The Hollow King</string> <!-- untranslated -->
-    <string name="boss_the_hollow_king_desc">The headless sovereign of the Gloomharvest, riding out from the Blightwood to reap what the living have sown.</string> <!-- untranslated -->
-    <string name="boss_the_vault_guardian_name">The Vault Guardian</string> <!-- untranslated -->
-    <string name="boss_the_vault_guardian_desc">A colossus of living gold, woken by the lighting of the Eternal Flame. Only patrons of the Grand Monument may face it.</string> <!-- untranslated -->
-    <string name="boss_obsidian_colossus_name">Obsidian Colossus</string> <!-- untranslated -->
-    <string name="boss_obsidian_colossus_desc">A mountain given wrath. No lone hero has ever chipped more than a scar into it. Bring a party.</string> <!-- untranslated -->
-    <string name="boss_brood_empress_name">Brood Empress</string> <!-- untranslated -->
-    <string name="boss_brood_empress_desc">Mother of the swarm between the stars. Her brood has ended armies; yours had better be paid well.</string> <!-- untranslated -->
-    <string name="boss_the_world_ender_name">The World Ender</string> <!-- untranslated -->
-    <string name="boss_the_world_ender_desc">When it stirs, kingdoms write their wills. Four names on the contract or none return.</string> <!-- untranslated -->
+    <string name="boss_sol_invictus_name">Sol Invictus, la Llama Quebrada</string>
+    <string name="boss_sol_invictus_desc">Una esquirla del sol, arrancada de la ruina del Chapitel Solar. Solo los guerreros más osados se atreven a acercarse.</string>
+    <string name="boss_the_hollow_king_name">El Rey Hueco</string>
+    <string name="boss_the_hollow_king_desc">El soberano decapitado de la Cosecha Sombría, que cabalga desde el Bosque Marchito para cosechar lo que los vivos han sembrado.</string>
+    <string name="boss_the_vault_guardian_name">El Guardián de la Bóveda</string>
+    <string name="boss_the_vault_guardian_desc">Un coloso de oro viviente, despertado al encenderse la Llama Eterna. Solo los mecenas del Gran Monumento pueden enfrentarlo.</string>
+    <string name="boss_obsidian_colossus_name">Coloso de Obsidiana</string>
+    <string name="boss_obsidian_colossus_desc">Una montaña presa de la ira. Ningún héroe solitario ha logrado hacerle más que una mella. Ven en grupo.</string>
+    <string name="boss_brood_empress_name">Emperatriz de la Prole</string>
+    <string name="boss_brood_empress_desc">Madre del enjambre entre las estrellas. Su prole ha acabado con ejércitos; más te vale que el tuyo esté bien pagado.</string>
+    <string name="boss_the_world_ender_name">El Aniquilador de Mundos</string>
+    <string name="boss_the_world_ender_desc">Cuando despierta, los reinos hacen testamento. Cuatro nombres en el contrato o no regresa nadie.</string>
 
     <!-- ===== Expedition-unlocked dungeon names ===== -->
     <string name="dungeon_collapsed_mine_name">Mina Derrumbada</string>
@@ -184,8 +184,8 @@
     <string name="dungeon_abyssal_depths_desc">A flooded pressure-chamber at the foot of the isle, where the Last Elder waits. Abyssal horrors and void seraphs patrol the approach. Three Ancient Sigils per clear.</string> <!-- untranslated -->
 
     <!-- Elder Isle raid bosses -->
-    <string name="boss_sea_serpent_name">Sea Serpent</string> <!-- untranslated -->
-    <string name="boss_sea_serpent_desc">The voyage boss. A rune-scarred serpent that circles the isle and turns back everyone it doesn\'t drown. Defeat once to permanently enable Set Sail.</string> <!-- untranslated -->
-    <string name="boss_last_elder_name">The Last Elder</string> <!-- untranslated -->
-    <string name="boss_last_elder_desc">The last of the Elders, sealed at the bottom of the Abyssal Depths. Only a full Elder set can survive the fight.</string> <!-- untranslated -->
+    <string name="boss_sea_serpent_name">Serpiente Marina</string>
+    <string name="boss_sea_serpent_desc">El jefe de la travesía. Una serpiente marcada con runas que rodea la isla y hace retroceder a todos los que no ahoga. Derrótala una vez para activar Zarpar de forma permanente.</string>
+    <string name="boss_last_elder_name">El Último Elder</string>
+    <string name="boss_last_elder_desc">El último de los Elder, sellado en el fondo de las Profundidades Abisales. Solo un equipo Elder completo puede sobrevivir al combate.</string>
 </resources>
