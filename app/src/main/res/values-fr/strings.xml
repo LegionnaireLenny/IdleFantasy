@@ -418,6 +418,7 @@
     <string name="settings_font_small">Petite</string>
     <string name="settings_font_normal">Normale</string>
     <string name="settings_font_large">Grande</string>
+    <string name="settings_font_very_large">Very Large</string>
     <string name="settings_font_huge">Énorme</string>
     <string name="settings_import_theme">Importer des thèmes</string>
     <string name="settings_import_theme_desc">Importer des thèmes personnalisés depuis un fichier</string>

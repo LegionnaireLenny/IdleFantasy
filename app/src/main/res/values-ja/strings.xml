@@ -418,6 +418,7 @@
     <string name="settings_font_small">小</string>
     <string name="settings_font_normal">標準</string>
     <string name="settings_font_large">大</string>
+    <string name="settings_font_very_large">Very Large</string> <!-- untranslated -->
     <string name="settings_font_huge">極大</string>
     <string name="settings_import_theme">テーマをインポート</string>
     <string name="settings_import_theme_desc">ファイルからカスタムテーマをインポート</string>

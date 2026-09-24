@@ -411,6 +411,7 @@
     <string name="settings_font_small">Kecil</string>
     <string name="settings_font_normal">Normal</string> <!-- untranslated -->
     <string name="settings_font_large">Besar</string>
+    <string name="settings_font_very_large">Very Large</string> <!-- untranslated -->
     <string name="settings_font_huge">Sangat besar</string>
     <string name="settings_import_theme">Impor tema</string>
     <string name="settings_import_theme_desc">Impor tema kustom dari file</string>

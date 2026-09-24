@@ -512,6 +512,8 @@ class CraftingViewModel @Inject constructor(
                     xpBoostMultAtQueue  = xpQueueMult,
                     catalystKey         = ashKey,
                     catalystQty         = ashQtyToConsume,
+                    consumedMaterials   = matsToConsume,
+                    isElderSession      = isElder,
                 )
                 val enqueued = playerRepo.enqueueAction(action)
                 if (enqueued) {
@@ -589,14 +591,15 @@ class CraftingViewModel @Inject constructor(
             playerRepo.consumeItems(matsToConsume)
             if (ashKey != null && ashQtyToConsume > 0) playerRepo.consumeItems(mapOf(ashKey to ashQtyToConsume))
             sessionRepo.startSession(
-                skillName        = recipe.skillName,
-                activityKey      = recipe.key,
-                frames           = framesJson,
-                durationMs       = qty * perItemMs,
-                skillDisplayName = recipe.skillName,
-                catalystKey      = ashKey,
-                catalystQty      = ashQtyToConsume,
-                isElderSession   = isElder,
+                skillName         = recipe.skillName,
+                activityKey       = recipe.key,
+                frames            = framesJson,
+                durationMs        = qty * perItemMs,
+                skillDisplayName  = recipe.skillName,
+                catalystKey       = ashKey,
+                catalystQty       = ashQtyToConsume,
+                isElderSession    = isElder,
+                consumedMaterials = json.encodeToString(json.serializersModule.serializer<Map<String, Int>>(), matsToConsume),
             )
             _extra.update { it.copy(selectedRecipe = null, herbloreAshKey = null) }
         }

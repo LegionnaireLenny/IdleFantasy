@@ -430,6 +430,7 @@
     <string name="settings_font_small">Malá</string>
     <string name="settings_font_normal">Normální</string>
     <string name="settings_font_large">Velká</string>
+    <string name="settings_font_very_large">Very Large</string> <!-- untranslated -->
     <string name="settings_font_huge">Obrovská</string>
     <string name="settings_import_theme">Importovat motivy</string>
     <string name="settings_import_theme_desc">Importovat vlastní motivy ze souboru</string>
