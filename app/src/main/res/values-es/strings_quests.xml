@@ -207,34 +207,34 @@
     <string name="quest_orc_slayer_2_name">Cazador de Orcos II</string>
     <string name="quest_orc_slayer_2_objective">Derrota 50 Guerreros Orcos</string>
     <string name="quest_demon_slayer_1_name">Cazador de Demonios I</string>
-    <string name="quest_demon_slayer_1_objective">Defeat the Demon Lord</string> <!-- untranslated -->
+    <string name="quest_demon_slayer_1_objective">Derrota al Señor de los Demonios</string>
     <string name="quest_demon_slayer_2_name">Cazador de Demonios II</string>
-    <string name="quest_demon_slayer_2_objective">Defeat the Demon Lord 5 times</string> <!-- untranslated -->
+    <string name="quest_demon_slayer_2_objective">Derrota al Señor de los Demonios 5 veces</string>
     <string name="quest_demon_slayer_3_name">Cazador de Demonios III</string>
-    <string name="quest_demon_slayer_3_objective">Defeat the Demon Lord 25 times</string> <!-- untranslated -->
+    <string name="quest_demon_slayer_3_objective">Derrota al Señor de los Demonios 25 veces</string>
     <string name="quest_dragon_slayer_1_name">Cazador de Dragones I</string>
     <string name="quest_dragon_slayer_1_objective">Derrota 10 Dragones Verdes</string>
     <string name="quest_dragon_slayer_2_name">Cazador de Dragones II</string>
     <string name="quest_dragon_slayer_2_objective">Derrota 25 Dragones Verdes</string>
 
     <!-- Combat style challenges -->
-    <string name="quest_melee_warrior_1_name">Melee Warrior I</string> <!-- untranslated -->
+    <string name="quest_melee_warrior_1_name">Guerrero Cuerpo a Cuerpo I</string>
     <string name="quest_melee_warrior_1_objective">Completa la Cueva de los Goblins usando solo cuerpo a cuerpo</string>
-    <string name="quest_melee_warrior_2_name">Melee Warrior II</string> <!-- untranslated -->
+    <string name="quest_melee_warrior_2_name">Guerrero Cuerpo a Cuerpo II</string>
     <string name="quest_melee_warrior_2_objective">Completa el Campamento de Bandidos usando solo cuerpo a cuerpo</string>
-    <string name="quest_melee_warrior_3_name">Melee Warrior III</string> <!-- untranslated -->
+    <string name="quest_melee_warrior_3_name">Guerrero Cuerpo a Cuerpo III</string>
     <string name="quest_melee_warrior_3_objective">Completa las Ruinas de la Fortaleza usando solo cuerpo a cuerpo</string>
-    <string name="quest_ranger_elite_1_name">Ranger Elite I</string> <!-- untranslated -->
+    <string name="quest_ranger_elite_1_name">Élite de Arquería I</string>
     <string name="quest_ranger_elite_1_objective">Completa la Cueva de los Goblins solo a distancia</string>
-    <string name="quest_ranger_elite_2_name">Ranger Elite II</string> <!-- untranslated -->
+    <string name="quest_ranger_elite_2_name">Élite de Arquería II</string>
     <string name="quest_ranger_elite_2_objective">Completa el Campamento de Bandidos solo a distancia</string>
-    <string name="quest_ranger_elite_3_name">Ranger Elite III</string> <!-- untranslated -->
+    <string name="quest_ranger_elite_3_name">Élite de Arquería III</string>
     <string name="quest_ranger_elite_3_objective">Completa las Ruinas de la Fortaleza solo a distancia</string>
-    <string name="quest_mage_master_1_name">Mage Master I</string> <!-- untranslated -->
+    <string name="quest_mage_master_1_name">Maestro Mago I</string>
     <string name="quest_mage_master_1_objective">Completa la Cueva de los Goblins usando solo magia</string>
-    <string name="quest_mage_master_2_name">Mage Master II</string> <!-- untranslated -->
+    <string name="quest_mage_master_2_name">Maestro Mago II</string>
     <string name="quest_mage_master_2_objective">Completa el Campamento de Bandidos usando solo magia</string>
-    <string name="quest_mage_master_3_name">Mage Master III</string> <!-- untranslated -->
+    <string name="quest_mage_master_3_name">Maestro Mago III</string>
     <string name="quest_mage_master_3_objective">Completa las Ruinas de la Fortaleza usando solo magia</string>
 
     <!-- Iron Stomach (no food) challenges -->
@@ -344,30 +344,30 @@
     <string name="quest_combat_kills_12_objective">Defeat 7650 enemies</string> <!-- untranslated -->
 
     <!-- New monster slayer chains -->
-    <string name="quest_zombie_slayer_1_name">Zombie Slayer I</string> <!-- untranslated -->
-    <string name="quest_zombie_slayer_1_objective">Defeat 35 Zombies</string> <!-- untranslated -->
-    <string name="quest_zombie_slayer_2_name">Zombie Slayer II</string> <!-- untranslated -->
-    <string name="quest_zombie_slayer_2_objective">Defeat 70 Zombies</string> <!-- untranslated -->
-    <string name="quest_hellhound_slayer_1_name">Hellhound Slayer I</string> <!-- untranslated -->
-    <string name="quest_hellhound_slayer_1_objective">Defeat 25 Hellhounds</string> <!-- untranslated -->
-    <string name="quest_hellhound_slayer_2_name">Hellhound Slayer II</string> <!-- untranslated -->
-    <string name="quest_hellhound_slayer_2_objective">Defeat 50 Hellhounds</string> <!-- untranslated -->
-    <string name="quest_troll_slayer_1_name">Troll Slayer I</string> <!-- untranslated -->
-    <string name="quest_troll_slayer_1_objective">Defeat 20 Mountain Trolls</string> <!-- untranslated -->
-    <string name="quest_troll_slayer_2_name">Troll Slayer II</string> <!-- untranslated -->
-    <string name="quest_troll_slayer_2_objective">Defeat 40 Mountain Trolls</string> <!-- untranslated -->
-    <string name="quest_fire_giant_slayer_1_name">Fire Giant Slayer I</string> <!-- untranslated -->
-    <string name="quest_fire_giant_slayer_1_objective">Defeat 15 Fire Giants</string> <!-- untranslated -->
-    <string name="quest_fire_giant_slayer_2_name">Fire Giant Slayer II</string> <!-- untranslated -->
-    <string name="quest_fire_giant_slayer_2_objective">Defeat 30 Fire Giants</string> <!-- untranslated -->
-    <string name="quest_ancient_guardian_slayer_1_name">Ancient Guardian Slayer I</string> <!-- untranslated -->
-    <string name="quest_ancient_guardian_slayer_1_objective">Defeat 10 Ancient Guardians</string> <!-- untranslated -->
-    <string name="quest_ancient_guardian_slayer_2_name">Ancient Guardian Slayer II</string> <!-- untranslated -->
-    <string name="quest_ancient_guardian_slayer_2_objective">Defeat 20 Ancient Guardians</string> <!-- untranslated -->
-    <string name="quest_lich_slayer_1_name">Lich Slayer I</string> <!-- untranslated -->
-    <string name="quest_lich_slayer_1_objective">Defeat 10 Liches</string> <!-- untranslated -->
-    <string name="quest_lich_slayer_2_name">Lich Slayer II</string> <!-- untranslated -->
-    <string name="quest_lich_slayer_2_objective">Defeat 20 Liches</string> <!-- untranslated -->
+    <string name="quest_zombie_slayer_1_name">Cazador de Zombis I</string>
+    <string name="quest_zombie_slayer_1_objective">Derrota 35 Zombis</string>
+    <string name="quest_zombie_slayer_2_name">Cazador de Zombis II</string>
+    <string name="quest_zombie_slayer_2_objective">Derrota 70 Zombis</string>
+    <string name="quest_hellhound_slayer_1_name">Cazador de Sabuesos Infernales I</string>
+    <string name="quest_hellhound_slayer_1_objective">Derrota 25 Sabuesos Infernales</string>
+    <string name="quest_hellhound_slayer_2_name">Cazador de Sabuesos Infernales II</string>
+    <string name="quest_hellhound_slayer_2_objective">Derrota 50 Sabuesos Infernales</string>
+    <string name="quest_troll_slayer_1_name">Cazador de Trolls I</string>
+    <string name="quest_troll_slayer_1_objective">Derrota 20 Trolls de Montaña</string>
+    <string name="quest_troll_slayer_2_name">Cazador de Trolls II</string>
+    <string name="quest_troll_slayer_2_objective">Derrota 40 Trolls de Montaña</string>
+    <string name="quest_fire_giant_slayer_1_name">Cazador de Gigantes de Fuego I</string>
+    <string name="quest_fire_giant_slayer_1_objective">Derrota 15 Gigantes de Fuego</string>
+    <string name="quest_fire_giant_slayer_2_name">Cazador de Gigantes de Fuego II</string>
+    <string name="quest_fire_giant_slayer_2_objective">Derrota 30 Gigantes de Fuego</string>
+    <string name="quest_ancient_guardian_slayer_1_name">Cazador de Guardianes Ancestrales I</string>
+    <string name="quest_ancient_guardian_slayer_1_objective">Derrota 10 Guardianes Ancestrales</string>
+    <string name="quest_ancient_guardian_slayer_2_name">Cazador de Guardianes Ancestrales II</string>
+    <string name="quest_ancient_guardian_slayer_2_objective">Derrota 20 Guardianes Ancestrales</string>
+    <string name="quest_lich_slayer_1_name">Cazador de Liches I</string>
+    <string name="quest_lich_slayer_1_objective">Derrota 10 Liches</string>
+    <string name="quest_lich_slayer_2_name">Cazador de Liches II</string>
+    <string name="quest_lich_slayer_2_objective">Derrota 20 Liches</string>
 
     <!-- Dungeon exploration extended -->
     <string name="quest_dungeon_imp_1_name">Dungeon Explorer VII</string> <!-- untranslated -->
@@ -378,63 +378,63 @@
     <string name="quest_dungeon_ancient_1_objective">Complete the Ancient Temple 5 times</string> <!-- untranslated -->
 
     <!-- Boss extended -->
-    <string name="quest_kbd_slayer_1_objective">Defeat the King Black Dragon</string> <!-- untranslated -->
-    <string name="quest_kbd_slayer_2_objective">Defeat the King Black Dragon 5 times</string> <!-- untranslated -->
-    <string name="quest_kbd_slayer_3_objective">Defeat the King Black Dragon 25 times</string> <!-- untranslated -->
-    <string name="quest_kbd_slayer_4_name">King Black Dragon Slayer IV</string> <!-- untranslated -->
-    <string name="quest_kbd_slayer_4_objective">Defeat the King Black Dragon 50 times</string> <!-- untranslated -->
-    <string name="quest_demon_slayer_4_name">Demon Slayer IV</string> <!-- untranslated -->
-    <string name="quest_demon_slayer_4_objective">Defeat the Demon Lord 50 times</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_1_name">Kraken Killer I</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_1_objective">Defeat the Kraken</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_2_name">Kraken Killer II</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_2_objective">Defeat the Kraken 5 times</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_3_name">Kraken Killer III</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_3_objective">Defeat the Kraken 25 times</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_4_name">Kraken Killer IV</string> <!-- untranslated -->
-    <string name="quest_kraken_killer_4_objective">Defeat the Kraken 50 times</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_1_name">Gothic Ember Bane I</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_1_objective">Defeat the Gothic Ember</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_2_name">Gothic Ember Bane II</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_2_objective">Defeat the Gothic Ember 5 times</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_3_name">Gothic Ember Bane III</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_3_objective">Defeat the Gothic Ember 25 times</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_4_name">Gothic Ember Bane IV</string> <!-- untranslated -->
-    <string name="quest_balrog_bane_4_objective">Defeat the Gothic Ember 50 times</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_1_name">Sovereign Slayer I</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_1_objective">Defeat the Void Sovereign</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_2_name">Sovereign Slayer II</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_2_objective">Defeat the Void Sovereign 5 times</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_3_name">Sovereign Slayer III</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_3_objective">Defeat the Void Sovereign 25 times</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_4_name">Sovereign Slayer IV</string> <!-- untranslated -->
-    <string name="quest_sovereign_slayer_4_objective">Defeat the Void Sovereign 50 times</string> <!-- untranslated -->
+    <string name="quest_kbd_slayer_1_objective">Derrota al King Black Dragon</string>
+    <string name="quest_kbd_slayer_2_objective">Derrota al King Black Dragon 5 veces</string>
+    <string name="quest_kbd_slayer_3_objective">Derrota al King Black Dragon 25 veces</string>
+    <string name="quest_kbd_slayer_4_name">King Black Dragon Slayer IV</string>
+    <string name="quest_kbd_slayer_4_objective">Derrota al King Black Dragon 50 veces</string>
+    <string name="quest_demon_slayer_4_name">Cazador de Demonios IV</string>
+    <string name="quest_demon_slayer_4_objective">Derrota al Señor de los Demonios 50 veces</string>
+    <string name="quest_kraken_killer_1_name">Exterminador de Krakens I</string>
+    <string name="quest_kraken_killer_1_objective">Derrota al Kraken</string>
+    <string name="quest_kraken_killer_2_name">Exterminador de Krakens II</string>
+    <string name="quest_kraken_killer_2_objective">Derrota al Kraken 5 veces</string>
+    <string name="quest_kraken_killer_3_name">Exterminador de Krakens III</string>
+    <string name="quest_kraken_killer_3_objective">Derrota al Kraken 25 veces</string>
+    <string name="quest_kraken_killer_4_name">Exterminador de Krakens IV</string>
+    <string name="quest_kraken_killer_4_objective">Derrota al Kraken 50 veces</string>
+    <string name="quest_balrog_bane_1_name">Perdición de la Brasa Gótica I</string>
+    <string name="quest_balrog_bane_1_objective">Derrota a la Brasa Gótica</string>
+    <string name="quest_balrog_bane_2_name">Perdición de la Brasa Gótica II</string>
+    <string name="quest_balrog_bane_2_objective">Derrota a la Brasa Gótica 5 veces</string>
+    <string name="quest_balrog_bane_3_name">Perdición de la Brasa Gótica III</string>
+    <string name="quest_balrog_bane_3_objective">Derrota a la Brasa Gótica 25 veces</string>
+    <string name="quest_balrog_bane_4_name">Perdición de la Brasa Gótica IV</string>
+    <string name="quest_balrog_bane_4_objective">Derrota a la Brasa Gótica 50 veces</string>
+    <string name="quest_sovereign_slayer_1_name">Cazador del Soberano I</string>
+    <string name="quest_sovereign_slayer_1_objective">Derrota al Soberano del Vacío</string>
+    <string name="quest_sovereign_slayer_2_name">Cazador del Soberano II</string>
+    <string name="quest_sovereign_slayer_2_objective">Derrota al Soberano del Vacío 5 veces</string>
+    <string name="quest_sovereign_slayer_3_name">Cazador del Soberano III</string>
+    <string name="quest_sovereign_slayer_3_objective">Derrota al Soberano del Vacío 25 veces</string>
+    <string name="quest_sovereign_slayer_4_name">Cazador del Soberano IV</string>
+    <string name="quest_sovereign_slayer_4_objective">Derrota al Soberano del Vacío 50 veces</string>
 
     <!-- Combat style challenges extended -->
-    <string name="quest_melee_warrior_4_name">Melee Warrior IV</string> <!-- untranslated -->
-    <string name="quest_melee_warrior_4_objective">Complete the Orc Stronghold using only melee</string> <!-- untranslated -->
-    <string name="quest_melee_warrior_5_name">Melee Warrior V</string> <!-- untranslated -->
-    <string name="quest_melee_warrior_5_objective">Complete the Dragon\'s Lair using only melee</string> <!-- untranslated -->
-    <string name="quest_ranger_elite_4_name">Ranger Elite IV</string> <!-- untranslated -->
-    <string name="quest_ranger_elite_4_objective">Complete the Orc Stronghold using only ranged</string> <!-- untranslated -->
-    <string name="quest_ranger_elite_5_name">Ranger Elite V</string> <!-- untranslated -->
-    <string name="quest_ranger_elite_5_objective">Complete the Dragon\'s Lair using only ranged</string> <!-- untranslated -->
-    <string name="quest_mage_master_4_name">Mage Master IV</string> <!-- untranslated -->
-    <string name="quest_mage_master_4_objective">Complete the Orc Stronghold using only magic</string> <!-- untranslated -->
-    <string name="quest_mage_master_5_name">Mage Master V</string> <!-- untranslated -->
-    <string name="quest_mage_master_5_objective">Complete the Dragon\'s Lair using only magic</string> <!-- untranslated -->
+    <string name="quest_melee_warrior_4_name">Guerrero Cuerpo a Cuerpo IV</string>
+    <string name="quest_melee_warrior_4_objective">Completa la Fortaleza de Orcos usando solo cuerpo a cuerpo</string>
+    <string name="quest_melee_warrior_5_name">Guerrero Cuerpo a Cuerpo V</string>
+    <string name="quest_melee_warrior_5_objective">Completa la Guarida del Dragón usando solo cuerpo a cuerpo</string>
+    <string name="quest_ranger_elite_4_name">Élite de Arquería IV</string>
+    <string name="quest_ranger_elite_4_objective">Completa la Fortaleza de Orcos solo a distancia</string>
+    <string name="quest_ranger_elite_5_name">Élite de Arquería V</string>
+    <string name="quest_ranger_elite_5_objective">Completa la Guarida del Dragón solo a distancia</string>
+    <string name="quest_mage_master_4_name">Maestro Mago IV</string>
+    <string name="quest_mage_master_4_objective">Completa la Fortaleza de Orcos usando solo magia</string>
+    <string name="quest_mage_master_5_name">Maestro Mago V</string>
+    <string name="quest_mage_master_5_objective">Completa la Guarida del Dragón usando solo magia</string>
 
     <!-- Iron Stomach extended -->
-    <string name="quest_iron_stomach_5_name">Iron Stomach V</string> <!-- untranslated -->
-    <string name="quest_iron_stomach_5_objective">Complete the Infernal Stronghold without using food</string> <!-- untranslated -->
-    <string name="quest_iron_stomach_6_name">Iron Stomach VI</string> <!-- untranslated -->
-    <string name="quest_iron_stomach_6_objective">Complete the Ancient Temple without using food</string> <!-- untranslated -->
+    <string name="quest_iron_stomach_5_name">Estómago de Hierro V</string>
+    <string name="quest_iron_stomach_5_objective">Completa la Fortaleza infernal sin usar comida</string>
+    <string name="quest_iron_stomach_6_name">Estómago de Hierro VI</string>
+    <string name="quest_iron_stomach_6_objective">Completa el Templo antiguo sin usar comida</string>
 
     <!-- Treasure Hunter extended -->
-    <string name="quest_treasure_hunter_5_name">Treasure Hunter V</string> <!-- untranslated -->
-    <string name="quest_treasure_hunter_5_objective">Collect 10 Hellhound Fangs from combat</string> <!-- untranslated -->
-    <string name="quest_treasure_hunter_6_name">Treasure Hunter VI</string> <!-- untranslated -->
-    <string name="quest_treasure_hunter_6_objective">Collect 15 Troll Bones from combat</string> <!-- untranslated -->
+    <string name="quest_treasure_hunter_5_name">Cazador de tesoros V</string>
+    <string name="quest_treasure_hunter_5_objective">Obtén 10 colmillos de sabueso infernal en combate</string>
+    <string name="quest_treasure_hunter_6_name">Cazador de tesoros VI</string>
+    <string name="quest_treasure_hunter_6_objective">Obtén 15 huesos de troll en combate</string>
 
     <!-- Daily quest verbs -->
     <string name="daily_verb_mining">Extraer</string>
@@ -508,8 +508,8 @@
     <string name="daily_verb_farming">Cosechar</string>
 
     <!-- Quest objective format strings -->
-    <string name="quest_obj_gather">%1$s %2$d %3$s</string> <!-- untranslated -->
-    <string name="quest_obj_craft">%1$s %2$d %3$s</string> <!-- untranslated -->
+    <string name="quest_obj_gather">%1$s %2$d %3$s</string>
+    <string name="quest_obj_craft">%1$s %2$d %3$s</string>
     <string name="quest_obj_prayer">Enterrar %1$d huesos de cualquier tipo</string>
     <string name="quest_obj_kill">Derrota %1$d enemigos</string>
     <string name="quest_obj_kill_enemy">Derrota %1$d %2$s</string>
