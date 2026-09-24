@@ -98,17 +98,17 @@
     <string name="quest_cooking_mutton_3_objective">Cocina 500 Corderos</string>
 
     <!-- Fletching -->
-    <string name="quest_fletching_1_name">Fletching I</string> <!-- untranslated -->
+    <string name="quest_fletching_1_name">Arquería I</string>
     <string name="quest_fletching_1_objective">Crea 500 Flechas de Bronce</string>
-    <string name="quest_fletching_2_name">Fletching II</string> <!-- untranslated -->
+    <string name="quest_fletching_2_name">Arquería II</string>
     <string name="quest_fletching_2_objective">Crea 750 Flechas de Hierro</string>
-    <string name="quest_fletching_3_name">Fletching III</string> <!-- untranslated -->
+    <string name="quest_fletching_3_name">Arquería III</string>
     <string name="quest_fletching_3_objective">Crea 1100 Flechas de Acero</string>
-    <string name="quest_fletching_4_name">Fletching IV</string> <!-- untranslated -->
+    <string name="quest_fletching_4_name">Arquería IV</string>
     <string name="quest_fletching_4_objective">Crea 1650 Flechas de Mithril</string>
-    <string name="quest_fletching_5_name">Fletching V</string> <!-- untranslated -->
+    <string name="quest_fletching_5_name">Arquería V</string>
     <string name="quest_fletching_5_objective">Crea 2450 Flechas de Adamantita</string>
-    <string name="quest_fletching_6_name">Fletching VI</string> <!-- untranslated -->
+    <string name="quest_fletching_6_name">Arquería VI</string>
     <string name="quest_fletching_6_objective">Crea 3650 Flechas de Runita</string>
 
     <!-- Prayer -->
@@ -138,18 +138,18 @@
     <string name="quest_combat_kills_5_objective">Derrota 450 enemigos</string>
     <string name="quest_combat_kills_6_name">Slayer VI</string>
     <string name="quest_combat_kills_6_objective">Derrota 650 enemigos</string>
-    <string name="quest_slayer_1_name">Slayer I</string> <!-- untranslated -->
-    <string name="quest_slayer_1_objective">Complete 5 Slayer tasks</string> <!-- untranslated -->
-    <string name="quest_slayer_2_name">Slayer II</string> <!-- untranslated -->
-    <string name="quest_slayer_2_objective">Complete 15 Slayer tasks</string> <!-- untranslated -->
-    <string name="quest_slayer_3_name">Slayer III</string> <!-- untranslated -->
-    <string name="quest_slayer_3_objective">Complete 40 Slayer tasks</string> <!-- untranslated -->
-    <string name="quest_slayer_4_name">Slayer IV</string> <!-- untranslated -->
-    <string name="quest_slayer_4_objective">Complete 100 Slayer tasks</string> <!-- untranslated -->
-    <string name="quest_slayer_5_name">Slayer V</string> <!-- untranslated -->
-    <string name="quest_slayer_5_objective">Complete 250 Slayer tasks</string> <!-- untranslated -->
-    <string name="quest_slayer_6_name">Slayer VI</string> <!-- untranslated -->
-    <string name="quest_slayer_6_objective">Complete 500 Slayer tasks</string> <!-- untranslated -->
+    <string name="quest_slayer_1_name">Slayer I</string>
+    <string name="quest_slayer_1_objective">Completa 5 tareas de Slayer</string>
+    <string name="quest_slayer_2_name">Slayer II</string>
+    <string name="quest_slayer_2_objective">Completa 15 tareas de Slayer</string>
+    <string name="quest_slayer_3_name">Slayer III</string>
+    <string name="quest_slayer_3_objective">Completa 40 tareas de Slayer</string>
+    <string name="quest_slayer_4_name">Slayer IV</string>
+    <string name="quest_slayer_4_objective">Completa 100 tareas de Slayer</string>
+    <string name="quest_slayer_5_name">Slayer V</string>
+    <string name="quest_slayer_5_objective">Completa 250 tareas de Slayer</string>
+    <string name="quest_slayer_6_name">Slayer VI</string>
+    <string name="quest_slayer_6_objective">Completa 500 tareas de Slayer</string>
 
     <!-- Dungeon exploration -->
     <string name="quest_dungeon_farm_1_name">Dungeon Explorer I</string> <!-- untranslated -->
@@ -172,17 +172,17 @@
     <string name="quest_dungeon_dragon_1_objective">Completa la Guarida del Dragon 5 veces</string>
 
     <!-- Crafting -->
-    <string name="quest_crafting_1_name">Crafting I</string> <!-- untranslated -->
+    <string name="quest_crafting_1_name">Artesanía I</string>
     <string name="quest_crafting_1_objective">Craft 100 Anillos de Plata</string>
-    <string name="quest_crafting_2_name">Crafting II</string> <!-- untranslated -->
+    <string name="quest_crafting_2_name">Artesanía II</string>
     <string name="quest_crafting_2_objective">Craft 250 Anillos de Oro</string>
-    <string name="quest_crafting_3_name">Crafting III</string> <!-- untranslated -->
+    <string name="quest_crafting_3_name">Artesanía III</string>
     <string name="quest_crafting_3_objective">Craft 500 Anillos de Platino</string>
-    <string name="quest_crafting_4_name">Crafting IV</string> <!-- untranslated -->
+    <string name="quest_crafting_4_name">Artesanía IV</string>
     <string name="quest_crafting_4_objective">Craft 750 Anillos de Plata con Zafiro</string>
-    <string name="quest_crafting_5_name">Crafting V</string> <!-- untranslated -->
+    <string name="quest_crafting_5_name">Artesanía V</string>
     <string name="quest_crafting_5_objective">Craft 1000 Anillos de Oro con Zafiro</string>
-    <string name="quest_crafting_6_name">Crafting VI</string> <!-- untranslated -->
+    <string name="quest_crafting_6_name">Artesanía VI</string>
     <string name="quest_crafting_6_objective">Craft 1500 Anillos de Platino con Diamante</string>
 
     <!-- Monster slayer chains -->
@@ -258,46 +258,46 @@
     <string name="quest_treasure_hunter_4_objective">Obtén 3 escamas de dragón en combate</string>
 
     <!-- Firemaking -->
-    <string name="quest_firemaking_1_name">Firemaking I</string> <!-- untranslated -->
-    <string name="quest_firemaking_1_objective">Burn 500 Logs</string> <!-- untranslated -->
-    <string name="quest_firemaking_2_name">Firemaking II</string> <!-- untranslated -->
-    <string name="quest_firemaking_2_objective">Burn 750 Oak Logs</string> <!-- untranslated -->
-    <string name="quest_firemaking_3_name">Firemaking III</string> <!-- untranslated -->
-    <string name="quest_firemaking_3_objective">Burn 1100 Willow Logs</string> <!-- untranslated -->
-    <string name="quest_firemaking_4_name">Firemaking IV</string> <!-- untranslated -->
-    <string name="quest_firemaking_4_objective">Burn 1650 Maple Logs</string> <!-- untranslated -->
-    <string name="quest_firemaking_5_name">Firemaking V</string> <!-- untranslated -->
-    <string name="quest_firemaking_5_objective">Burn 2450 Yew Logs</string> <!-- untranslated -->
-    <string name="quest_firemaking_6_name">Firemaking VI</string> <!-- untranslated -->
-    <string name="quest_firemaking_6_objective">Burn 3650 Magic Logs</string> <!-- untranslated -->
+    <string name="quest_firemaking_1_name">Hacer fuego I</string>
+    <string name="quest_firemaking_1_objective">Quema 500 Troncos</string>
+    <string name="quest_firemaking_2_name">Hacer fuego II</string>
+    <string name="quest_firemaking_2_objective">Quema 750 Troncos de Roble</string>
+    <string name="quest_firemaking_3_name">Hacer fuego III</string>
+    <string name="quest_firemaking_3_objective">Quema 1100 Troncos de Sauce</string>
+    <string name="quest_firemaking_4_name">Hacer fuego IV</string>
+    <string name="quest_firemaking_4_objective">Quema 1650 Troncos de Arce</string>
+    <string name="quest_firemaking_5_name">Hacer fuego V</string>
+    <string name="quest_firemaking_5_objective">Quema 2450 Troncos de Tejo</string>
+    <string name="quest_firemaking_6_name">Hacer fuego VI</string>
+    <string name="quest_firemaking_6_objective">Quema 3650 Troncos Mágicos</string>
 
     <!-- Runecrafting -->
-    <string name="quest_runecrafting_1_name">Runecrafting I</string> <!-- untranslated -->
-    <string name="quest_runecrafting_1_objective">Craft 500 Air Runes</string> <!-- untranslated -->
-    <string name="quest_runecrafting_2_name">Runecrafting II</string> <!-- untranslated -->
-    <string name="quest_runecrafting_2_objective">Craft 750 Water Runes</string> <!-- untranslated -->
-    <string name="quest_runecrafting_3_name">Runecrafting III</string> <!-- untranslated -->
-    <string name="quest_runecrafting_3_objective">Craft 1100 Earth Runes</string> <!-- untranslated -->
-    <string name="quest_runecrafting_4_name">Runecrafting IV</string> <!-- untranslated -->
-    <string name="quest_runecrafting_4_objective">Craft 1650 Fire Runes</string> <!-- untranslated -->
-    <string name="quest_runecrafting_5_name">Runecrafting V</string> <!-- untranslated -->
-    <string name="quest_runecrafting_5_objective">Craft 2450 Mind Runes</string> <!-- untranslated -->
-    <string name="quest_runecrafting_6_name">Runecrafting VI</string> <!-- untranslated -->
-    <string name="quest_runecrafting_6_objective">Craft 3650 Chaos Runes</string> <!-- untranslated -->
+    <string name="quest_runecrafting_1_name">Creación de runas I</string>
+    <string name="quest_runecrafting_1_objective">Crea 500 Runas de Aire</string>
+    <string name="quest_runecrafting_2_name">Creación de runas II</string>
+    <string name="quest_runecrafting_2_objective">Crea 750 Runas de Agua</string>
+    <string name="quest_runecrafting_3_name">Creación de runas III</string>
+    <string name="quest_runecrafting_3_objective">Crea 1100 Runas de Tierra</string>
+    <string name="quest_runecrafting_4_name">Creación de runas IV</string>
+    <string name="quest_runecrafting_4_objective">Crea 1650 Runas de Fuego</string>
+    <string name="quest_runecrafting_5_name">Creación de runas V</string>
+    <string name="quest_runecrafting_5_objective">Crea 2450 Runas Mentales</string>
+    <string name="quest_runecrafting_6_name">Creación de runas VI</string>
+    <string name="quest_runecrafting_6_objective">Crea 3650 Runas del Caos</string>
 
     <!-- Herblore -->
-    <string name="quest_herblore_1_name">Herblore I</string> <!-- untranslated -->
-    <string name="quest_herblore_1_objective">Brew 100 Attack Brews</string> <!-- untranslated -->
-    <string name="quest_herblore_2_name">Herblore II</string> <!-- untranslated -->
-    <string name="quest_herblore_2_objective">Mix 250 Defense Potions</string> <!-- untranslated -->
-    <string name="quest_herblore_3_name">Herblore III</string> <!-- untranslated -->
-    <string name="quest_herblore_3_objective">Mix 500 Strength Potions</string> <!-- untranslated -->
-    <string name="quest_herblore_4_name">Herblore IV</string> <!-- untranslated -->
-    <string name="quest_herblore_4_objective">Mix 750 Ranging Potions</string> <!-- untranslated -->
-    <string name="quest_herblore_5_name">Herblore V</string> <!-- untranslated -->
-    <string name="quest_herblore_5_objective">Mix 1000 Magic Potions</string> <!-- untranslated -->
-    <string name="quest_herblore_6_name">Herblore VI</string> <!-- untranslated -->
-    <string name="quest_herblore_6_objective">Mix 1500 Super Strength Potions</string> <!-- untranslated -->
+    <string name="quest_herblore_1_name">Herboristería I</string>
+    <string name="quest_herblore_1_objective">Prepara 100 Brebajes de Ataque</string>
+    <string name="quest_herblore_2_name">Herboristería II</string>
+    <string name="quest_herblore_2_objective">Mezcla 250 Pociones de Defensa</string>
+    <string name="quest_herblore_3_name">Herboristería III</string>
+    <string name="quest_herblore_3_objective">Mezcla 500 Pociones de Fuerza</string>
+    <string name="quest_herblore_4_name">Herboristería IV</string>
+    <string name="quest_herblore_4_objective">Mezcla 750 Pociones de Distancia</string>
+    <string name="quest_herblore_5_name">Herboristería V</string>
+    <string name="quest_herblore_5_objective">Mezcla 1000 Pociones de Magia</string>
+    <string name="quest_herblore_6_name">Herboristería VI</string>
+    <string name="quest_herblore_6_objective">Mezcla 1500 Super Pociones de Fuerza</string>
 
     <!-- Construction -->
     <string name="quest_construction_1_name">Construcción I</string>
@@ -318,16 +318,16 @@
     <string name="quest_construction_upgrade_church_objective">Mejora la Iglesia al menos una vez.</string>
 
     <!-- Thieving -->
-    <string name="quest_thieving_1_name">Thieving I</string> <!-- untranslated -->
-    <string name="quest_thieving_1_objective">Pickpocket 100 Peasants</string> <!-- untranslated -->
-    <string name="quest_thieving_2_name">Thieving II</string> <!-- untranslated -->
-    <string name="quest_thieving_2_objective">Pickpocket 100 Merchants</string> <!-- untranslated -->
-    <string name="quest_thieving_3_name">Thieving III</string> <!-- untranslated -->
-    <string name="quest_thieving_3_objective">Pickpocket 100 Nobles</string> <!-- untranslated -->
-    <string name="quest_thieving_4_name">Thieving IV</string> <!-- untranslated -->
-    <string name="quest_thieving_4_objective">Steal 5 Gold Necklaces</string> <!-- untranslated -->
-    <string name="quest_thieving_5_name">Thieving V</string> <!-- untranslated -->
-    <string name="quest_thieving_5_objective">Pickpocket 50 High Priests</string> <!-- untranslated -->
+    <string name="quest_thieving_1_name">Robo I</string>
+    <string name="quest_thieving_1_objective">Roba a 100 Campesinos</string>
+    <string name="quest_thieving_2_name">Robo II</string>
+    <string name="quest_thieving_2_objective">Roba a 100 Comerciantes</string>
+    <string name="quest_thieving_3_name">Robo III</string>
+    <string name="quest_thieving_3_objective">Roba a 100 Nobles</string>
+    <string name="quest_thieving_4_name">Robo IV</string>
+    <string name="quest_thieving_4_objective">Roba 5 Collares de Oro</string>
+    <string name="quest_thieving_5_name">Robo V</string>
+    <string name="quest_thieving_5_objective">Roba a 50 Sumos Sacerdotes</string>
 
     <!-- Slayer extended -->
     <string name="quest_combat_kills_7_name">Slayer VII</string>
